@@ -1,7 +1,7 @@
-function f= factposnum(n) % Function definition: takes parameter n and returns f
-f=1; % Initial value 1
+function f= factposnum(n)
+f=1;
 if(n<=0)
-    f=-1; % if n is negative returns -1
+    f=-1;
 else
     while(n>0) % loop to multiply f by all numbers <=n
         f=f*n;
