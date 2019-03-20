@@ -3,7 +3,7 @@ This repository consist of *MATLAB* implementation of Numerical Algorithms that 
 All implementation are written in form of functions and can be called directly.
 ## Index
 ##### 1. Introduction to MATLAB
-* Factorial of positive integer **n**
+* Factorial of positive integer **n**(factposnum) &#x2611;
 * First **n** fibonacci numbers
 * First number **n** for which factorial(n) has **i** digits  
 
