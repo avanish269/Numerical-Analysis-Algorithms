@@ -8,34 +8,34 @@ All implementation are written in form of functions and can be called directly.
 * First number **n** for which factorial(n) has **i** digits(firstidig) &#x2611;   
 
 ##### 2. Nonlinear Equations in One Variable
-* Bisection Method
-* Newton Rapshon's Method
-* Secant Method
-* Modified Newton's Method
-* Fixed Point Iteration
+* Bisection Method(bisection_method)
+* Newton Rapshon's Method(nr_method)
+* Secant Method(secant_method)
+* Modified Newton's Method(mnr_method)
+* Fixed Point Iteration(fpi_method)
 
 ##### 3. Linear Systems: Direct Method
-* **Ax=b**, A is diagonal matrix
-* Forward Substitution Method
-* Backward Substitution Method
-* Gauss Elimination Method
-* Gauss Elimination with Partial Pivoting
-* Gauss Jordan Method
-* LU Decompositon(Doolittle's Factorisation)
-* LU Decompositon(Cholesky Method)
+* **Ax=b**, A is diagonal matrix(diag_solver)
+* Forward Substitution Method(fs_method)
+* Backward Substitution Method(bs_method)
+* Gauss Elimination Method(ge_method)
+* Gauss Elimination with Partial Pivoting(gewpp_method)
+* Gauss Jordan Method(gj_method)
+* LU Decompositon(Doolittle's Factorisation)(doo_method)
+* LU Decompositon(Cholesky Method)(chol_method)
 
 ##### 4. Linear Systems: Iterative Method
-* Gauss-Jacobi Method
-* Gauss-Seidel Method
+* Gauss-Jacobi Method(gjacob_method)
+* Gauss-Seidel Method(gseidel_method)
 
 ##### 5. Interpolation
-* Lagrange Polynomial
+* Lagrange Polynomial(lagrange_inter)
 
 ##### 6. Numerical Integration
-* Midpoint Method
-* Composite Midpoint Method
-* Trapezoidal Rule
-* Composite Trapezoidal Rule
-* Simpson Rule
-* One point Gauss Quadrature
-* Two point Gauss Quadrature
+* Midpoint Method(mp_method)
+* Composite Midpoint Method(cmp_method)
+* Trapezoidal Rule(trap_rule)
+* Composite Trapezoidal Rule(ctrap_rule)
+* Simpson Rule(simpson_rule)
+* One point Gauss Quadrature(opgq_method)
+* Two point Gauss Quadrature(tpgq_method)
