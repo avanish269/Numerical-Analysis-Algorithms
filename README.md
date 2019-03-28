@@ -8,11 +8,10 @@ All implementation are written in form of functions and can be called directly.
 * First number **n** for which factorial(n) has **i** digits(firstidig) &#x2611;   
 
 ##### 2. Nonlinear Equations in One Variable
-* Bisection Method(bisection_method)
-* Newton Rapshon's Method(nr_method)
-* Secant Method(secant_method)
-* Modified Newton's Method(mnr_method)
-* Fixed Point Iteration(fpi_method)
+* Bisection Method(bisection_method) &#x2611;
+* Newton Rapshon's Method(nr_method) &#x2611;
+* Secant Method(secant_method) &#x2611;
+* Modified Newton's Method(mnr_method) &#x2611;
 
 ##### 3. Linear Systems: Direct Method
 * **Ax=b**, A is diagonal matrix(diag_solver)
@@ -29,7 +28,7 @@ All implementation are written in form of functions and can be called directly.
 * Gauss-Seidel Method(gseidel_method)
 
 ##### 5. Interpolation
-* Lagrange Polynomial(lagrange_inter)
+* Lagrange Polynomial(lagrange_inter) &#x2611;
 
 ##### 6. Numerical Integration
 * Midpoint Method(mp_method)
