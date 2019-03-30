@@ -38,3 +38,7 @@ All implementation are written in form of functions and can be called directly.
 * Simpson Rule(simpson_rule)
 * One point Gauss Quadrature(opgq_method)
 * Two point Gauss Quadrature(tpgq_method)
+
+##### 7. Numerical Solution of Differential Equation
+* Forward Euler's Method(fe_method) &#x2611;
+* Modified Euler's Method(mfe_method) &#x2611;  
