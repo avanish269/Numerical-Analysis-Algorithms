@@ -32,10 +32,11 @@ All implementation are written in form of functions and can be called directly.
 
 ##### 6. Numerical Integration
 * Midpoint Method(mp_method) &#x2611;
-* Composite Midpoint Method(cmp_method)
+* Composite Midpoint Method(cmp_method) &#x2611;
 * Trapezoidal Rule(trap_rule) &#x2611;
-* Composite Trapezoidal Rule(ctrap_rule)
+* Composite Trapezoidal Rule(ctrap_rule) &#x2611;
 * Simpson Rule(simpson_rule) &#x2611;
+* Composite Simpson Rule(csimpson_rule) &#x2611;
 * One point Gauss Quadrature(opgq_method)
 * Two point Gauss Quadrature(tpgq_method)
 
