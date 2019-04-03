@@ -31,11 +31,11 @@ All implementation are written in form of functions and can be called directly.
 * Lagrange Polynomial(lagrange_inter) &#x2611;
 
 ##### 6. Numerical Integration
-* Midpoint Method(mp_method)
+* Midpoint Method(mp_method) &#x2611;
 * Composite Midpoint Method(cmp_method)
-* Trapezoidal Rule(trap_rule)
+* Trapezoidal Rule(trap_rule) &#x2611;
 * Composite Trapezoidal Rule(ctrap_rule)
-* Simpson Rule(simpson_rule)
+* Simpson Rule(simpson_rule) &#x2611;
 * One point Gauss Quadrature(opgq_method)
 * Two point Gauss Quadrature(tpgq_method)
 

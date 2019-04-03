@@ -1,4 +1,4 @@
-function pf = lagrange_inter(f,a,b,n);
+function pf = lagrange_inter(f,a,b,n)
 x=linspace(a,b,n);
 y=f(x);
 n=length(x);
