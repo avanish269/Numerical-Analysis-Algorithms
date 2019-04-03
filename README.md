@@ -37,9 +37,11 @@ All implementation are written in form of functions and can be called directly.
 * Composite Trapezoidal Rule(ctrap_rule) &#x2611;
 * Simpson Rule(simpson_rule) &#x2611;
 * Composite Simpson Rule(csimpson_rule) &#x2611;
-* One point Gauss Quadrature(opgq_method)
-* Two point Gauss Quadrature(tpgq_method)
+* One point Gauss Quadrature(opgq_method) &#x2611;
+* Two point Gauss Quadrature(tpgq_method) &#x2611;
 
 ##### 7. Numerical Solution of Differential Equation
 * Forward Euler's Method(fe_method) &#x2611;
 * Modified Euler's Method(mfe_method) &#x2611;  
+* Runge Kutta Method of Order 2(rk2) &#x2611;
+* Runge Kutta Method of Order 4(rk4) &#x2611;
