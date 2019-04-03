@@ -14,7 +14,7 @@ All implementation are written in form of functions and can be called directly.
 * Modified Newton's Method(mnr_method) &#x2611;
 
 ##### 3. Linear Systems: Direct Method
-* **Ax=b**, A is diagonal matrix(diag_solver)
+* **Ax=b**, A is diagonal matrix(diag_solver) &#x2611;
 * Forward Substitution Method(fs_method)
 * Backward Substitution Method(bs_method)
 * Gauss Elimination Method(ge_method)
